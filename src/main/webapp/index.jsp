@@ -20,8 +20,8 @@
           <label>Email or Mobile number</label>
         </div>
         <div class="form-control">
-          <input type="nagraj_password" required />
-          <label>nagraj12_Password</label>
+          <input type="password" required />
+          <label>Password</label>
         </div>
         <button type="submit">WELCOME TO NETFLIX V-6.0</button>
         <div class="form-help">
