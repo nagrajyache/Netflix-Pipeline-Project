@@ -13,7 +13,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2>NETFLIX SIGN IN V-3.5</h2>
+      <h2>NETFLIX SIGN IN V-3.10</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
@@ -21,7 +21,7 @@
         </div>
         <div class="form-control">
           <input type="password" required />
-          <label>nagraj_Password</label>
+          <label>Password</label>
         </div>
         <button type="submit">WELCOME TO NETFLIX V-6.0</button>
         <div class="form-help">
